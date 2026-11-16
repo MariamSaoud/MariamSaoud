@@ -28,11 +28,11 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariamSaoud&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariamSaoud&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MariamSaoud&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MariamSaoud&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Connect with me
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/](https://www.linkedin.com/in/mariam-saoud-aa805236b?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariam-saoud-aa805236b)
