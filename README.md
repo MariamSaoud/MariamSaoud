@@ -25,9 +25,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+### 💻 Most Used Languages
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MariamSaoud&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs,contribs)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MariamSaoud&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
