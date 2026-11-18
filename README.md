@@ -27,9 +27,7 @@
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MariamSaoud&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MariamSaoud&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MariamSaoud&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs,contribs)
 
 ---
 
